@@ -1,3 +1,17 @@
+/******************************************************************************
+
+File        : cd_cmd.c
+
+Date        : Thursday 19th November 2020
+
+Author      : VaileyXO
+
+Description : A simple command shell program for the Linux operating system.
+
+Usage       : deadlock [-h] [-t threads] [-r resources]
+
+******************************************************************************/
+
 /*6 Libraries*/
 #include <stdlib.h>		//malloc(), realloc(), freee(), exit(), execvp()
 #include <stdio.h>		//printf(), stderr, getchar(), perror(), popen()
