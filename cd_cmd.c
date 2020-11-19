@@ -1,4 +1,4 @@
-/*6 Library*/
+/*6 Libraries*/
 #include <stdlib.h>		//malloc(), realloc(), freee(), exit(), execvp()
 #include <stdio.h>		//printf(), stderr, getchar(), perror(), popen()
 #include <string.h>		//strcmp(), strcpy(), strcat(), strtok()
