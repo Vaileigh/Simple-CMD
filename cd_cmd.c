@@ -2,7 +2,7 @@
 #include <stdlib.h>		//malloc(), realloc(), freee(), exit(), execvp()
 #include <stdio.h>		//printf(), stderr, getchar(), perror(), popen()
 #include <string.h>		//strcmp(), strcpy(), strcat(), strtok()
-#include <sys/wait.h>	//waitpid()
+#include <sys/wait.h>		//waitpid()
 #include <unistd.h>		//getcwd(), chdir(), fork(), exec(), pid_t
 #include <limits.h>		//PATH_MAX, CHAR_MAX
 
